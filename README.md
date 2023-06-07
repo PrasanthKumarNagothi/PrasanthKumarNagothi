@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PrasanthKumarNagothi
-- 👀 I’m interested in Cyber Security and Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Hacking and Python projects
+- 👋 Hi, I’m @PrasanthKumarNagothi working as a Technical Trainer. I teach Full Stack Development with Python.
+- 👀 I’m interested in Programming, Web Development and Cyber Security
+- 💞️ I’m looking to collaborate on Web Development and Python projects
 - 📫 How to reach me Instagram @prasanthkumarnagothi
 
 <!---
