@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrasanthKumarNagothi working as a Technical Trainer. I teach Full Stack Development with Python.
+- 👋 Hi, I’m @PrasanthKumarNagothi working as a Software Engineer (Full Stack Development with React JS + Django).
 - 👀 I’m interested in Programming, Web Development and Cyber Security
 - 💞️ I’m looking to collaborate on Web Development and Python projects
 - 📫 How to reach me Instagram @prasanthkumarnagothi
